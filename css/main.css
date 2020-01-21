@@ -17,7 +17,7 @@ html {
 
 .card-title {
   color: var(--color-primary);
-  font-family: var(--font-secondary)
+  font-family: var(--font-secondary);
 }
 
 .btn {
